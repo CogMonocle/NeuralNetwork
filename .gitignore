@@ -45,3 +45,6 @@ Temporary Items
 .idea/dictionaries/Justin.xml
 *.xml
 .idea/NeuralNetwork.iml
+*.pyc
+*.pyc
+network.pyc
